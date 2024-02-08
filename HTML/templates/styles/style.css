@@ -1,0 +1,26 @@
+/* header{
+    color: red;
+}
+h1{
+    
+    color: #13f0f0;
+    padding: right;
+}
+h1{
+    font-style: italic;
+} */
+.ter{
+    font-weight: 500;
+    font-style: italic;
+padding: 10px;
+    color: yellow;
+    background-color: blue;
+}
+body{
+    background-image: url();
+}
+
+footer{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
